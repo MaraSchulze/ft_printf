@@ -1,4 +1,5 @@
-This function recodes a simple version of printf.
+This function recodes a simple version of printf.  
+The project description is in the pdf.
 
 This project was written for and compiled on a Mac.
 make or make bonus for creating a library, which contains ft_printf.
